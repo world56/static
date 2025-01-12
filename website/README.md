@@ -18,6 +18,14 @@
 
 <img width="1000" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/8.png" alt="个人主页">
 
+
+## 📷 SEO效果预览
+
+<img width="1000" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/9.png" alt="个人主页">
+
+<img width="1000" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/10.png" alt="个人主页">
+
+
 <p align="center">
   <a href="https://github.com/world56/website">
    查看项目仓库
