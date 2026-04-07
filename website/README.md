@@ -8,10 +8,10 @@
 
 
 # 📷 访客 移动 端  
-<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-0.jpg" alt="个人主页">
-<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-0-dark.jpg" alt="个人主页">
-<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-1.jpg" alt="个人主页">
-<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-2.jpg" alt="个人主页">
+<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-0.png" alt="个人主页">
+<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-0-dark.png" alt="个人主页">
+<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-1.png" alt="个人主页">
+<img width="700" style="border-radius:20px"  src="https://raw.githubusercontent.com/world56/static/main/website/mobile-2.png" alt="个人主页">
 
 
 # 📷 后台管理
